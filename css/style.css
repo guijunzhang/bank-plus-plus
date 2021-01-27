@@ -1,4 +1,35 @@
 body {
     background-color: white;
+
 }
 
+
+
+.a {
+    font-size: 72px;
+}
+
+#header-class {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#page-container {
+    position: relative;
+    min-height: 90vh;
+}
+
+#content-wrap {
+    padding-bottom: 2rem;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+    justify-content: flex-end;
+}
