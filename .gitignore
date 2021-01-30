@@ -1,0 +1,5 @@
+# vim
+*.swp
+
+# pre-commit
+.venv/
