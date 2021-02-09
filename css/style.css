@@ -1,25 +1,25 @@
 body {
-  background-color: white;
+    background-color: white;
 }
 .title {
-  font-size: 72px;
+    font-size: 72px;
 }
 
 .title,
 .description {
-  display: inline;
+    display: inline;
 }
 
 .description {
-  float: right;
+    float: right;
 }
 
 footer {
-  position: absolute;
-  bottom: 0;
+    position: absolute;
+    bottom: 0;
 }
 
 main {
-  margin-top: 8px;
-  padding-top: 8px;
+    margin-top: 8px;
+    padding-top: 8px;
 }
